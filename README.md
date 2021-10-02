@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hey 👋, This is <Kalyan Kumar/>
 
-<!--
-**kalyanmamidisetti/kalyanmamidisetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Gmail Badge](https://img.shields.io/badge/-kalyankumarbabu@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kalyankumarbabu@gmail.com)](mailto:kalyankumarbabu@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-kalyankumar-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kalyan-kumar-mamidisetti-067945140/)](https://www.linkedin.com/in/kalyan-kumar-mamidisetti-067945140/)
 
-Here are some ideas to get you started:
+<p align='left'>I am an enthusiast, a learner and passionate about Web Technologies. The web applications I like to create have JavaScript at the core. Listed are the technologies I am sound with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+►JavaScript <br/>
+►React JS <br/>
+►HTML <br/>
+►CSS <br/>
+►Git <br/>
+►Material UI <br/>
+►Bootstrap <br/>
+
+![Kalyan's github stats](https://github-readme-stats.vercel.app/api?username=kalyanmamidisetti&show_icons=true&theme=tokyonight) <br/>
