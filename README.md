@@ -1,4 +1,4 @@
-## Hey 👋, This is <Kalyan Kumar/>
+## Hey 👋, This is Kalyan Kumar
 
 [![Gmail Badge](https://img.shields.io/badge/-kalyankumarbabu@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kalyankumarbabu@gmail.com)](mailto:kalyankumarbabu@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-kalyankumar-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kalyan-kumar-mamidisetti-067945140/)](https://www.linkedin.com/in/kalyan-kumar-mamidisetti-067945140/)
 
