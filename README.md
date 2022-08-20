@@ -21,8 +21,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=kalyanmamidisetti&theme=radical&show_icons=true&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="1" ></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=kalyanmamidisetti&show_icons=true&theme=tokyonight" display=block width=100% height=auto  alt="2" ></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=kalyanmamidisetti&theme=tokyonight&show_icons=true&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyanmamidisetti&theme=tokyonight&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
    </tr> 
    <tr>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=kalyanmamidisetti&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>  
