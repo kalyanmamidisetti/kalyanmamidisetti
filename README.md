@@ -4,7 +4,7 @@
 
 <p align='left'>I am an enthusiast, a learner and passionate about Web Technologies. The web applications I like to create have JavaScript at the core. Listed are the technologies I am sound with:
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalyanmamidisetti&show_icons=true&locale=en&layout=compact" alt="kalyan kumar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalyanmamidisetti&show_icons=true&locale=en&layout=compact" alt="kalyan kumar" /></p> <br/>
 
 ►JavaScript <br/>
 ►React JS <br/>
