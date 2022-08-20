@@ -16,3 +16,19 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalyanmamidisetti&show_icons=true&locale=en&layout=compact" alt="kalyan kumar" /></p>
 
 ![Kalyan's github stats](https://github-readme-stats.vercel.app/api?username=kalyanmamidisetti&show_icons=true&theme=tokyonight) <br/>
+
+# Github Activity📊:
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=kalyanmamidisetti&theme=radical&show_icons=true&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyanmamidisetti&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
+   </tr> 
+   <tr>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=kalyanmamidisetti&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
+     <td><img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/wakatime?username=kalyanmamidisetti&custom_title=My%20Weekly%20Stats&layout=compact&theme=tokyonight" alt="Wakatime Stats" />
+  </td>
+  
+  </td>
+  </tr>
+</table>
