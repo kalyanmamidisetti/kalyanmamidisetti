@@ -1,7 +1,6 @@
 ## Hey 👋, This is Kalyan Kumar
 
-[![Gmail Badge](https://img.shields.io/badge/-kalyankumarbabu@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kalyankumarbabu@gmail.com)](mailto:kalyankumarbabu@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-kalyankumar-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kalyan-kumar-mamidisetti-067945140/)](https://www.linkedin.com/in/kalyan-kumar-mamidisetti-067945140/) [![Website Badge](https://img.shields.io/badge/kalyankumar-000000?style=flat&logo=About.me&logoColor=white&link=https://iamkalyan.netlify.app)](https://iamkalyan.netlify.app)
-
+[![Gmail Badge](https://img.shields.io/badge/-kalyankumarbabu@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kalyankumarbabu@gmail.com)](mailto:kalyankumarbabu@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-kalyankumar-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kalyan-kumar-mamidisetti-067945140/)](https://www.linkedin.com/in/kalyan-kumar-mamidisetti-067945140/)
 <p align='left'>I am an enthusiast, a learner and passionate about Web Technologies. Listed are the technologies I am sound with:
   
 ►JavaScript <br/>
