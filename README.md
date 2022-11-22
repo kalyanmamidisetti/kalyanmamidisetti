@@ -21,9 +21,9 @@
 
 <table>
   <tr>
-    <td>
+<!--     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=kalyanmamidisetti&theme=tokyonight&show_icons=true&hide=Jupyter%20Notebook"  display=block      width=100% height=auto  alt="1" >
-</td>
+</td> -->
    <!--<td>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyanmamidisetti" display=block width=100% height=auto alt="2"/>
 </td>-->
