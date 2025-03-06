@@ -17,6 +17,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kalyanmamidisetti&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="kalyanmamidisetti's github stats"/>
 </a>
  
+#### Languages :
 ►JavaScript <br/>
 ►React JS <br/>
 ►HTML <br/>
@@ -30,23 +31,8 @@
 
 ![Kalyan's github stats](https://github-readme-stats.vercel.app/api?username=kalyanmamidisetti&show_icons=true&theme=tokyonight) <br/>
  -->
-# Github Activity📊:
 
-<table>
-  <tr>
-<!--     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=kalyanmamidisetti&theme=tokyonight&show_icons=true&hide=Jupyter%20Notebook"  display=block      width=100% height=auto  alt="1" >
-</td> -->
-   <!--<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyanmamidisetti" display=block width=100% height=auto alt="2"/>
-</td>-->
-   </tr>
-   <tr>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=kalyanmamidisetti&theme=tokyonight" display=block width=100% height=auto alt="3" ></td>  
-  </tr>
-</table>
-
-# Productivity Stats📈:
+#### Productivity Stats📈:
 <table>
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalyanmamidisetti&theme=tokyonight"  display=block width=100% height=auto  alt="1" ></td>
