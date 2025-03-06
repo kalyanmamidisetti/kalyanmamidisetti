@@ -3,7 +3,20 @@
 [![Gmail Badge](https://img.shields.io/badge/-kalyankumarbabu@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kalyankumarbabu@gmail.com)](mailto:kalyankumarbabu@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-kalyankumar-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kalyan-kumar-mamidisetti-067945140/)](https://www.linkedin.com/in/kalyan-kumar-mamidisetti-067945140/)
 ![](https://komarev.com/ghpvc/?username=kalyanmamidisetti)
 <p align='left'>I am an enthusiast, a learner and passionate about Web Technologies. Listed are the technologies I am sound with:
-  
+
+
+#### :fire: My Stats :
+<!--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kalyanmamidisetti&theme=dark&background=000000)](https://git.io/streak-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalyanmamidisetti&layout=compact&theme=light)](https://github.com/kalyanmamidisetti/github-readme-stats) -->
+
+<a href="https://github.com/kalyanmamidisetti">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyanmamidisetti&theme=light&count_private=true&layout=compact" width="205" alt="kalyanmamidisetti's most used languages" />
+</a>
+<a href="https://github.com/kalyanmamidisetti">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=kalyanmamidisetti&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="kalyanmamidisetti's github stats"/>
+</a>
+ 
 ►JavaScript <br/>
 ►React JS <br/>
 ►HTML <br/>
