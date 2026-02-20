@@ -4,10 +4,6 @@
 ![](https://komarev.com/ghpvc/?username=kalyanmamidisetti)
 <p align='left'>I am an enthusiast, a learner and passionate about Web Technologies. Listed are the technologies I am sound with:
 
-
-#### :fire: My Stats :
-<!--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kalyanmamidisetti&theme=dark&background=000000)](https://git.io/streak-stats) 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalyanmamidisetti&layout=compact&theme=light)](https://github.com/kalyanmamidisetti/github-readme-stats) -->
 
 <a href="https://github.com/kalyanmamidisetti">
